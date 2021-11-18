@@ -1,5 +1,5 @@
 ---
-title: Training Center for Malagasy Tourism Workforce
+title: Training Center for Malagasy Tourism Workforce.
 description: This is a post on how we raised money for a Training Center in Madagascar.
 date: 2019-06-21
 tags:
