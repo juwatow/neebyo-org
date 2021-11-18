@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About Us
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About Us
   order: 3
 ---
 
-I am a person that writes stuff.
+Founded by [Jeanne d'Arc Uwatowenimana](https://jeannedarc.io/)
