@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-Founded by [Jeanne d'Arc Uwatowenimana](https://jeannedarc.io/)
+An Initiative founded by [Jeanne d'Arc Uwatowenimana](https://jeannedarc.io/) for raising digital awareness among disadvantaged communities in rural areas of Africa.
