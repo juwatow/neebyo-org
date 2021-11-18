@@ -3,7 +3,7 @@ title: This is my first post.
 description: This is a post on My Blog about agile frameworks.
 date: 2019-06-21
 tags:
-  - 2019
+  - year-2019
 layout: layouts/post.njk
 ---
 
