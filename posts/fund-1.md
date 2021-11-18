@@ -1,11 +1,11 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Training Center for Malagasy Tourism Workforce
+description: This is a post on how we raised money for a Training Center in Madagascar.
+date: 2019-06-21
 tags:
-  - another tag
+  - 2019
+  - funds
 layout: layouts/post.njk
 ---
-# Training Center for Malagasy Tourism Workforce
 
-June 21, 2019 - We raised CAD $340 to contribute to the construction of a training center for ignored labor pools: chronically unemployed, lost parents, LGBT, recovering addicts, to address staff shortage serving Malagasy tourism industry. Project by [HALT POVERTY](https://www.mg-haltpoverty.org/). [Details](https://www.globalgiving.org/projects/help-finish-anay-center/)
+Today we raised CAD $340 to contribute to the construction of a training center for ignored labor pools: chronically unemployed, lost parents, LGBT, recovering addicts, to address staff shortage serving Malagasy tourism industry. Project by [HALT POVERTY](https://www.mg-haltpoverty.org/). [Details](https://www.globalgiving.org/projects/help-finish-anay-center/)
