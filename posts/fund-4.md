@@ -1,4 +1,3 @@
-
 ---
 title: Supporting Samburu Girls Foundation
 description: This is a post on how we raised funds for the Samburu Girls Foundation in Kenya.
