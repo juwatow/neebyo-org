@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 A Canadian not-for-profit initiative that aims to raise digital awareness among disadvantaged communities in rural areas of Africa.
-![Neebyo - Mission, Vision, Strategy, Goals, Roadmap](Neebyo-Mission-Vision-Strategy-Goals-Roadmap.jpg)
+![Neebyo - Mission, Vision, Strategy, Goals, Roadmap](../img/Neebyo-Mission-Vision-Strategy-Goals-Roadmap.jpg)
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/company/neebyo/
