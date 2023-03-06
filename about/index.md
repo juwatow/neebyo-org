@@ -14,7 +14,7 @@ A not-for-profit initiative that aims to raise digital awareness among disadvant
 Raise digital awareness among disadvantaged communities in rural areas of Africa.
 
 ### Vision
-African disadvantaged communities using technology to solve some of their problems.
+We envision African youth in disadvantaged areas solving problems in their community with technology.
 
 ### Strategy
 Empower youth in disadvantaged communities to regularly participate in coding programs like [Technovation](https://www.technovation.org/) by taking care of the heavy lifting (facilitate access to laptops, internet, IT Support, coaches and mentors, learning resources, communication and collaboration tools).
