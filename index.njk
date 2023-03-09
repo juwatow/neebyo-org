@@ -4,11 +4,15 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
-
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">Impact</a>.</p>
+<p>We are a not-for-profit initiative that aims to raise digital awareness among disadvantaged communities in rural areas of Africa.</p>
+<ul>
+  <li><a href="{{ '/about/' | url }}">Learn more</a> about our Mission, Vision, Strategy, Goals and Roadmap</li>
+  <li>See our <a href="{{ '/posts/' | url }}">Impact</a></li>
+</ul>
+<h2>Get in touch</h2>
+<ul>
+  <li>[LinkedIn](https://www.linkedin.com/company/neebyo/)</li>
+  <li>[Twitter](https://twitter.com/neebyo)</li>
+  <li>[Instagram](https://www.instagram.com/neebyo_org/)</li>
+  <li>[Facebook](https://www.facebook.com/neebyo)</li>
+</ul>

@@ -6,8 +6,6 @@ eleventyNavigation:
   key: About Us
   order: 3
 ---
-
-A not-for-profit initiative that aims to raise digital awareness among disadvantaged communities in rural areas of Africa.
 ![Neebyo - Mission, Vision, Strategy, Goals, Roadmap](../img/Neebyo-Mission-Vision-Strategy-Goals-Roadmap.jpg)
 
 ### Mission
