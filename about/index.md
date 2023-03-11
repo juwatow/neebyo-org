@@ -23,9 +23,3 @@ Empower youth in disadvantaged communities to regularly participate in coding pr
 
 ### Roadmap
 Empower a new disadvantaged community every year.
-
-## Get in touch
-- [LinkedIn](https://www.linkedin.com/company/neebyo/)
-- [Twitter](https://twitter.com/neebyo)
-- [Instagram](https://www.instagram.com/neebyo_org/)
-- [Facebook](https://www.facebook.com/neebyo)
