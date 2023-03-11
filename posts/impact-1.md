@@ -4,7 +4,7 @@ description: This is a post on how we sponsored a Training Center in Madagascar.
 date: 2019-06-21
 tags:
   - year-2019
-  - impact
+  - donation
   - country-Madagascar
 layout: layouts/post.njk
 ---

@@ -4,7 +4,7 @@ description: This is a post on how we sponsored a girl from the Samburu Girls Fo
 date: 2022-12-27
 tags:
   - year-2022
-  - impact
+  - donation
   - country-Kenya
 layout: layouts/post.njk
 ---

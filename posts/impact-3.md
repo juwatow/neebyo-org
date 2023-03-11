@@ -4,7 +4,7 @@ description: This is a post on how we sponsored an ICT Room for a school in Rwan
 date: 2020-12-01
 tags:
   - year-2020
-  - impact
+  - donation
   - country-Rwanda
 layout: layouts/post.njk
 ---
