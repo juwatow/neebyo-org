@@ -247,3 +247,9 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+/* Images */
+.responsive {
+  max-width: 100%;
+  height: auto;
+}

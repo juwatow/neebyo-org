@@ -6,7 +6,7 @@ eleventyNavigation:
   key: About Us
   order: 3
 ---
-![Neebyo - Mission, Vision, Strategy, Goals, Roadmap](../img/Neebyo-Mission-Vision-Strategy-Goals-Roadmap.jpg)
+<img src="../img/Neebyo-Mission-Vision-Strategy-Goals-Roadmap.jpg" alt="Neebyo - Mission, Vision, Strategy, Goals, Roadmap" class="responsive">
 
 ### Mission
 Raise digital awareness among disadvantaged communities in rural areas of Africa.
