@@ -7,11 +7,11 @@ tags:
   - country-Kenya
 layout: layouts/post.njk
 ---
-## A message from Jeanne d’Arc Uwatowenimana CEO and Founder of Neebyo
-![Samburu Girls Foundation](/img/jeanne-profile.jpeg)
-Dear Neebyo Community,
+## A message from Jeanne d’Arc Uwatowenimana, CEO and Founder of Neebyo
 
-As we close the chapter on another remarkable year, I am thrilled to share the incredible strides we've made together. This year was transformative for Neebyo as we took a bold step to revise [our mission, vision, and strategy](https://www.neebyo.org/about/). This process allowed us to refocus our efforts, define clear goals, and most importantly, achieve meaningful impact.
+| | |
+|-|-|
+|Dear Neebyo Community,<br/><br/>As we close the chapter on another remarkable year, I am thrilled to share the incredible strides we've made together. This year was transformative for Neebyo as we took a bold step to revise [our mission, vision, and strategy](https://www.neebyo.org/about/). This process allowed us to refocus our efforts, define clear goals, and most importantly, achieve meaningful impact.|![Samburu Girls Foundation](/img/jeanne-profile.jpeg)|
 
 Our collective dedication and hard work have not only redefined our purpose but also strengthened our commitment to making a difference. Along this journey, we forged valuable long-term partnerships and established mentorship programs that have enriched our community and enhanced our reach.
 
